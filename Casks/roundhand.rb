@@ -1,6 +1,6 @@
 cask "roundhand" do
-  version "0.2.5"
-  sha256 "dbd2bdae817cb765b332b7691b6e3ded1111378187602f8a35a599f9aa2f62e7"
+  version "0.5.0"
+  sha256 "1aea465c9f86465097e196997172538f91b12b38a389316c18fc45d960836c41"
 
   url "https://github.com/avisangle/roundhand-releases/releases/download/v#{version}/Roundhand-#{version}.dmg",
       verified: "github.com/avisangle/roundhand-releases/"
